@@ -8,8 +8,8 @@ This what you need to know about me
 "Coding is the art of turning imagination into reality, where each line of code is a brushstroke, and the screen is the canvas where ideas come to life."
 
    <p align="left">
-     <a href="https://youtube.com/@LawX_Gaming">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2MmIfrRpCTF3FbbQu5uBbA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+     <a href="https://youtube.com/@LawX_Gaming?si=LiM8ErHlU_YPc1i-">
+         <img alt="youtube subscribers" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2MmIfrRpCTF3FbbQu5uBbA?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
     <a href=https://youtube.com/c/@LawX_Gaming">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2MmIfrRpCTF3FbbQu5uBbA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="[https://github.com/LawX22?tab=followers](https://github.com/LawX22?tab=followers)">
